@@ -1,0 +1,18 @@
+Board as in Schematics_HWP_Board.pdf
+
+6x AA batteries with a passing package
+
+2x Infrared Sensors either GP2Y0A41SK0F or GP2D120
+
+2x EMS22Q31-B28-LS4 encoders
+
+2x Acuatting Motors : 
+Versorgungsspannung: 9VDC
+Übersetzung des Getriebes: 50:1
+Leerlaufdrehzahl: ca. 5.800U/min (entspricht 116U/min der Abgangswelle)
+Stromaufnahme: max. 1,1A
+Drehmoment: max. 60Ncm
+Länge der Abgangswelle d=5mm
+
+
+Build Material : Fishermann's Set
